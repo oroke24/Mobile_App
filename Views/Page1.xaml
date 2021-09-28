@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:viewmodels="clr-namespace:MyApp3.ViewModels"
+             xmlns:mvvm="clr-namespace:MvvmHelpers;assembly=MvvmHelpers"
+             xmlns:model="clr-namespace:MyApp3.Models"
+             x:Class="MyApp3.Views.Page1"
+             Background="white"
+             x:DataType="viewmodels:Page1ViewModel">
+    <ContentPage.BindingContext>
+        <viewmodels:Page1ViewModel/>
+    </ContentPage.BindingContext>
+    <ListView BackgroundColor="Transparent"
+              ItemsSource="{Binding Money}">
+
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ImageCell Text="{Binding amount}"
+                          Detail="{Binding standing}"/>
+                          ImageSource="{Binding Image}"/>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+</ContentPage>
