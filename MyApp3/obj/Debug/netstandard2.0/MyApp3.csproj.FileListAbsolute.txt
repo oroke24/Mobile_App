@@ -1,0 +1,16 @@
+C:\Users\jamie\source\repos\MyApp3\MyApp3\MyApp3\bin\Debug\netstandard2.0\MyApp3.deps.json
+C:\Users\jamie\source\repos\MyApp3\MyApp3\MyApp3\bin\Debug\netstandard2.0\MyApp3.dll
+C:\Users\jamie\source\repos\MyApp3\MyApp3\MyApp3\bin\Debug\netstandard2.0\ref\MyApp3.dll
+C:\Users\jamie\source\repos\MyApp3\MyApp3\MyApp3\bin\Debug\netstandard2.0\MyApp3.pdb
+C:\Users\jamie\source\repos\MyApp3\MyApp3\MyApp3\obj\Debug\netstandard2.0\MyApp3.csproj.AssemblyReference.cache
+C:\Users\jamie\source\repos\MyApp3\MyApp3\MyApp3\obj\Debug\netstandard2.0\MyApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamie\source\repos\MyApp3\MyApp3\MyApp3\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jamie\source\repos\MyApp3\MyApp3\MyApp3\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\jamie\source\repos\MyApp3\MyApp3\MyApp3\obj\Debug\netstandard2.0\Views\Page1.xaml.g.cs
+C:\Users\jamie\source\repos\MyApp3\MyApp3\MyApp3\obj\Debug\netstandard2.0\MyApp3.AssemblyInfoInputs.cache
+C:\Users\jamie\source\repos\MyApp3\MyApp3\MyApp3\obj\Debug\netstandard2.0\MyApp3.AssemblyInfo.cs
+C:\Users\jamie\source\repos\MyApp3\MyApp3\MyApp3\obj\Debug\netstandard2.0\MyApp3.csproj.CoreCompileInputs.cache
+C:\Users\jamie\source\repos\MyApp3\MyApp3\MyApp3\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jamie\source\repos\MyApp3\MyApp3\MyApp3\obj\Debug\netstandard2.0\MyApp3.dll
+C:\Users\jamie\source\repos\MyApp3\MyApp3\MyApp3\obj\Debug\netstandard2.0\ref\MyApp3.dll
+C:\Users\jamie\source\repos\MyApp3\MyApp3\MyApp3\obj\Debug\netstandard2.0\MyApp3.pdb
